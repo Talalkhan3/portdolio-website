@@ -11,7 +11,7 @@ const Hero = () => {
         />
         <div className="max-w-[195px]">
           <h1 className="font-bold text-[17px] underline">Pablo Designero</h1>
-          <p>Designer & Unicorn Trainer</p>
+          <p>Designer & Developer</p>
         </div>
       </div>
 
